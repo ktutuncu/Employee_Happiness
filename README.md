@@ -1,4 +1,4 @@
-# Employee_Happiness - Exploratory Data Analysis on Employee Happiness 
+# Exploratory Data Analysis on Employee Happiness 
 Project to analyze the determinant of employee happiness by taking certain segments and survey times into account.
 
 ## Employee Happiness Data
